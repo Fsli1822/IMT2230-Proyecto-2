@@ -1,0 +1,17 @@
+# Datos descargados automáticamente por el notebook
+wikipedia_link_csb/
+*.tar.bz2
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Python
+__pycache__/
+*.pyc
+
+# Entornos virtuales
+venv/
+.venv/
+
+# Sistema
+.DS_Store
