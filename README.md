@@ -29,7 +29,7 @@ Detalle completo del análisis (P1–P8) en [`informe.pdf`](informe.pdf).
 
 1. Clonar este repositorio:
 ```bash
-   git clone https://github.com/<usuario>/<repo>.git
+   git clone https://github.com/Fsli1822/IMT2230-Proyecto-2.git
    cd <repo>
 ```
 
