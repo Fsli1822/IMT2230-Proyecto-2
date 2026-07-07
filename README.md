@@ -67,30 +67,3 @@ vez que se ejecuta; no es necesario hacerlo a mano.
 Se usa la convención columna-estocástica vista en clase:
 $G\mathbf{r} = \mathbf{r}$, con $\mathbf{r}$ vector columna y
 $G = \alpha S + \frac{1-\alpha}{n}\mathbf{1}\mathbf{1}^T$, $\alpha=0.85$.
-
-requirements.txt
-numpy
-pandas
-matplotlib
-networkx
-scipy
-jupyter
-
-.gitignore
-# Datos descargados automáticamente por el notebook (no se versionan)
-wikipedia_link_csb/
-*.tar.bz2
-
-# Jupyter
-.ipynb_checkpoints/
-
-# Python
-__pycache__/
-*.pyc
-
-# Entornos virtuales
-venv/
-.venv/
-
-# Sistema
-.DS_Store
