@@ -30,7 +30,7 @@ Detalle completo del análisis (P1–P8) en [`informe.pdf`](informe.pdf).
 1. Clonar este repositorio:
 ```bash
    git clone https://github.com/Fsli1822/IMT2230-Proyecto-2.git
-   cd <IMT2230-Proyecto-2>
+   cd IMT2230-Proyecto-2
 ```
 
 2. Instalar las dependencias:
